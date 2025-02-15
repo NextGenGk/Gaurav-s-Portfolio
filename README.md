@@ -10,7 +10,7 @@ Welcome to the Personal Portfolio Website repository! This project showcases a p
 ## Live preview
 [![Netlify Status](https://api.netlify.com/api/v1/badges/798f376e-e69c-441f-8921-acc32d9ef85b/deploy-status)](https://app.netlify.com/sites/devgauravsocial/deploys)
 
-Check out the live demo of the website [devgaurav.me](https://devgaurav.social).
+Check out the live demo of the website [devgaurav.social](https://devgaurav.social).
 
 ## Project Overview
 
